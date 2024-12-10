@@ -12,7 +12,7 @@ Physician raters have medical degrees and extensive experience writing clinical 
 Non-physician raters have no clinical experience, nor medical degree. 
 Physicians were given annotation instructions: “If you're the physician who wrote this sentence: what is your attitude towards the patient?”
 Non-physicians were given annotation instructions: “If you're the patient: how do you feel reading this description of you?”
-Annotaiton data is available upon request.
+Annotation data is available upon request.
 ## Models
 |Model|Pre-training data|Fine-tuning data|Parameters|
 |-----|-----------------|----------------|----------|
